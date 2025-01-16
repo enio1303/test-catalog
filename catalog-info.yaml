@@ -2,9 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-catalog
+  title: test-catalog
+  description: test-catalog
+  tags:
+    - backend
+    - node
   annotations:
     github/com/project-slug: enio1303/test-catalog
 spec:
-  type: other
-  lifecycle: unknown
+  type: api
+  lifecycle: production
   owner: bmg-cdev-dev
