@@ -1,2 +1,2 @@
 # test-catalog
-Test catalog
+Test catalog import
