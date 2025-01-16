@@ -7,7 +7,9 @@ metadata:
   tags:
     - backend
     - node
+  annotations:
+    github.com/project-repo: enio1303/test-catalog
 spec:
-  type: library
+  type: openapi
   lifecycle: production
   owner: bmg-cdev-dev
