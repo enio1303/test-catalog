@@ -9,6 +9,7 @@ metadata:
     - node
   annotations:
     github.com/project-repo: enio1303/test-catalog
+    github.com/build-definition: test-catalog
 spec:
   type: openapi
   lifecycle: production
