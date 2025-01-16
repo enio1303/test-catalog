@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-catalog
+  annotations:
+    github/com/project-slug: enio1303/test-catalog
+spec:
+  type: other
+  lifecycle: unknown
+  owner: bmg-cdev-dev
