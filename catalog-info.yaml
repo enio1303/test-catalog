@@ -8,6 +8,6 @@ metadata:
     - backend
     - node
 spec:
-  type: api
+  type: library
   lifecycle: production
   owner: bmg-cdev-dev
