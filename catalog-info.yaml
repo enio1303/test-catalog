@@ -7,8 +7,6 @@ metadata:
   tags:
     - backend
     - node
-  annotations:
-    github.com/project-slug: enio1303/test-catalog
 spec:
   type: api
   lifecycle: production
